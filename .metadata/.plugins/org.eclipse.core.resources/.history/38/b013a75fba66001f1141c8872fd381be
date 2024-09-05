@@ -1,0 +1,11 @@
+package com.example.socialmediaapprestapi.versioning;
+
+import org.springframework.web.bind.annotation.GetMapping;
+
+public class VersioningPersonController {
+	
+	@GetMapping("/v1/person")
+	public Person getFirstVersionOfPerson() {
+		
+	}
+}

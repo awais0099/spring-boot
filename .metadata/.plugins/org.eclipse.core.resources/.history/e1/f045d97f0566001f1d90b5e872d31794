@@ -1,0 +1,5 @@
+package com.example.springboottodoapp.exception;
+
+public class ErrorDetails {
+
+}

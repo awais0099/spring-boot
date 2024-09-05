@@ -1,0 +1,5 @@
+package com.example.socialmediaapprestapi.jpa;
+
+public class PostRepository {
+
+}

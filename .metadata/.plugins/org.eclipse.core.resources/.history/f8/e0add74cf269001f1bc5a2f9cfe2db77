@@ -1,0 +1,5 @@
+package com.example.socialmediaapprestapi.jpa;
+
+public interface PostRepository extends JpaRepository<Post, Integer> {
+
+}

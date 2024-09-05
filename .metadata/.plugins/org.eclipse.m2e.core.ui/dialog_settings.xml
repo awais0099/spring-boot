@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/home/unitedsol/Documents/workspace-spring-tool-suite"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.practice.security.springsecurityapp"/>
+			<item value="com.practice.springsecurityapp"/>
+		</list>
+		<list key="groupId">
+			<item value="com.practice.security"/>
+			<item value="com.practice"/>
+		</list>
+		<list key="artifactId">
+			<item value="springsecurityapp"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/home/unitedsol/Documents/workspace-spring-tool-suite/socialmediaapprestapi"/>
+			<item value="/home/unitedsol/Documents/workspace-spring-tool-suite/springbootJUnit"/>
+			<item value="/home/unitedsol/Documents/workspace-spring-tool-suite/springboottodoapp"/>
+			<item value="/home/unitedsol/Documents/workspace-spring-tool-suite/security5jwtapp"/>
+			<item value="/home/unitedsol/Documents/workspace-spring-tool-suite/security4app"/>
+			<item value="/home/unitedsol/Documents/workspace-spring-tool-suite/security3app"/>
+			<item value="/home/unitedsol/Documents/workspace-spring-tool-suite/security2app"/>
+			<item value="/home/unitedsol/Documents/workspace-spring-tool-suite/springbootsecurityrestapi"/>
+			<item value="/home/unitedsol/Downloads/bookrestapi"/>
+			<item value="/home/unitedsol/Downloads/sprngbootjpacrud"/>
+			<item value="/home/unitedsol/Downloads/myfirstwebapp"/>
+			<item value="/home/unitedsol/Downloads/learn-jpa-and-hibernate"/>
+			<item value="/home/unitedsol/Downloads/springbootsimplewebapi"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="515"/>
+		<item key="x" value="482"/>
+		<item key="y" value="50"/>
+	</section>
+</section>

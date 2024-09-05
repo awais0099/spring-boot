@@ -1,0 +1,18 @@
+package com.example.socialmediaapprestapi;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class HelloWorldController {
+	
+	@GetMapping("/hello-wold")
+	public String hello() {
+		return "Hello World";
+	}
+	
+	@GetMapping("/hello-wold-internationalized")
+	public String helloInternationalized() {
+		return "Hello World internationalized";
+	}
+}
